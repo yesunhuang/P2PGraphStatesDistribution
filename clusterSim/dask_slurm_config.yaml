@@ -1,0 +1,10 @@
+cores: 10
+processes: 10
+memory: "80GB"
+project: "FILL_YOUR_OWN"
+queue: "FILL_YOUR_OWN"
+walltime: "36:00:00"
+log_directory: "logs"
+death_timeout: "60s"
+scheduler_options:
+  dashboard_address: ":15023"
