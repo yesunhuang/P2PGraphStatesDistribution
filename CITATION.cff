@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: P2PGraphStatesDistribution
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Yuexun
+    family-names: Huang
+    email: yesunhuang@uchicago.edu
+    affiliation: The University of Chicago
+    orcid: 'https://orcid.org/0009-0004-0788-8142'
+  - given-names: Xiangyu
+    family-names: Ren
+    email: xiangyu.ren@ed.ac.uk
+    affiliation: The University of Edinburgh
+    orcid: 'https://orcid.org/0009-0006-8914-2188'
+identifiers:
+  - type: url
+    value: 'https://arxiv.org/abs/2412.14757'
+repository-code: 'https://github.com/yesunhuang/P2PGraphStatesDistribution'
+abstract: >-
+  The source code for simulating the graph state
+  distribution protocols.
+keywords:
+  - Quantum Network
+license: MIT
