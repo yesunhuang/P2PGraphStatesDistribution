@@ -169,3 +169,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Midway3 configuration files
+*.sbatch
+dask_slurm_config.yaml
+*.err
+*.out
+clusterSim/logs
