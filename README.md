@@ -1,5 +1,6 @@
 # P2PGraphStatesDistribution
 This repository includes the data for the corresponding manuscript [Space-time Peer-to-Peer Distribution of Multi-party Entanglement for Any Quantum Network](https://arxiv.org/abs/2412.14757).
+See also the published version, [Peer-to-Peer Distribution of Graph States Across Spacetime Quantum Networks of Arbitrary Topology](https://dl.acm.org/doi/10.1145/3727123) , in SIGMetrics 2025
 ## Respository structure
 The main source codes for the simulators and algorithms are in the `src` folder. 
 
